@@ -8,4 +8,4 @@ This repository contains a coding exercise with the following structure:
 
 
  `Expected output:`
- ![output](images/1.png)
+ ![output](images/1.PNG)
