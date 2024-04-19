@@ -1,0 +1,8 @@
+C:\_Works\codecommit\sipology\webhook\CodingExercise\CodingExercise\bin\Debug\CodingExercise.exe.config
+C:\_Works\test\Flight_Test\CodingExercise\CodingExercise\bin\Debug\CodingExercise.exe.config
+C:\_Works\test\Flight_Test\CodingExercise\CodingExercise\bin\Debug\CodingExercise.exe
+C:\_Works\test\Flight_Test\CodingExercise\CodingExercise\bin\Debug\CodingExercise.pdb
+C:\_Works\test\Flight_Test\CodingExercise\CodingExercise\obj\Debug\CodingExercise.exe
+C:\_Works\test\Flight_Test\CodingExercise\CodingExercise\obj\Debug\CodingExercise.pdb
+C:\_Works\test\Flight_Test\CodingExercise\CodingExercise\bin\Debug\Newtonsoft.Json.dll
+C:\_Works\test\Flight_Test\CodingExercise\CodingExercise\bin\Debug\Newtonsoft.Json.xml
